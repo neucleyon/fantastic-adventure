@@ -1,0 +1,17 @@
+body{
+  background-image: url();
+  background-size: cover;
+}
+
+.navbar-dark{
+  background: rgba(0,0,0,0.7);
+}
+
+.carousel{
+  position: relative;
+}
+
+.carousel-caption{
+  position: absolute;
+  top: 45%;
+}
